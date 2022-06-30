@@ -1,0 +1,21 @@
+# main links
+main:
+  - title: "Index"
+    url: /
+  - title: "Home"
+    url: /home
+  - title: "Arquivo"
+    url: /archive
+posts:
+  - title: Oficina
+    children:
+      - title: "Git"
+        url: /2022/06/26/introducao-git
+      - title: "GitHub"
+        url: /2022/06/27/introducao-github
+      - title: "GitHub Pages"
+        url: /2022/06/28/github-pages
+      - title: "Markdown"
+        url: /2022/06/29/markdown
+      - title: "Jekyll"
+        url: /2022/06/29/jekyll
