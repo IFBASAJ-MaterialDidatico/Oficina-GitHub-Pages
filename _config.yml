@@ -29,9 +29,9 @@ title_separator          : "-"
 subtitle                 : "Um treinamento para a utilização do GitHub Pages para hospedagem de sites" # site tagline that appears below site title in masthead
 name                     : "Leandro Souza"
 description              : "Treinamento GitHub Pages"
-url                      : "https://leandro-costa.github.io/"
+url                      : "https://leandro-costa.github.io/Oficina-GitHub-Pages"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "leandro-costa/leandro-costa.github.io"
+repository               : "leandro-costa/Oficina-GitHub-Pages"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
